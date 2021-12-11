@@ -49,7 +49,7 @@ const Timeline = () => {
       
       I am pursuing B.Tech in Robotics from Amity University, Noida. I’m currently learning Artificial Intelligence, Robotics, Machine Learning, Web Development and more.
 
-      I am a person who has high passion, love in what she does. I love to sketch, play with colours which gives me a sense of creativity and has led me into designing. Apart from programming, I have deep interests in sports, reading, writing, photography, designing etc. I like volunteer as well. I am a hard-working, determined, patient person who has her goals set and is ready to make them come true. 
+      I am a person who has high passion, love in what she does. I love to sketch, play with colours which gives me a sense of creativity and has led me into designing. Apart from programming, I have deep interest in sports, reading, writing, photography, languages etc. I like to volunteer as well. I am a hard-working, determined, patient person who has her goals set and is ready to make them come true. 
 
 
       </SectionText>
