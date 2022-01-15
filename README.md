@@ -1,6 +1,6 @@
 ## Personal Portfolio
 
-### [Live Site]()
+### [Live Site](https://samridhibhardwaj.netlify.app)
 
 
 Setup:
